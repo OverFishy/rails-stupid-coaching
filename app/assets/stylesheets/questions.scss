@@ -1,0 +1,22 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.answer {
+  background-color: rgb(255, 255, 153);
+}
+
+.grey-strip {
+  background-color: rgb(210, 210, 210);
+  height: 86px;
+  width: 7px;
+}
+
+.text {
+  padding-left: 10px;
+}
+
+.flex {
+  display: inline-flex ;
+  padding-top: 10px;
+}
